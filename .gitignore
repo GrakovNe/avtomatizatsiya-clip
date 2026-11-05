@@ -1,0 +1,5 @@
+models/
+preview/
+work/*
+!work/audio.js
+.DS_Store
